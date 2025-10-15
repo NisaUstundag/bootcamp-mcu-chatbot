@@ -32,7 +32,6 @@ Uygulama, modern ve popüler GenAI araçları kullanılarak RAG mimarisine uygun
 
 Proje başarıyla tamamlanmış ve kullanıcıların MCU karakterleri hakkında sorular sorup, RAG mimarisi sayesinde doğru ve tutarlı cevaplar alabildiği bir web uygulaması ortaya çıkmıştır.
 
-![Uygulama Arayüzü](https://i.imgur.com/K7tF82v.png)
 
 ### Kurulum
 
